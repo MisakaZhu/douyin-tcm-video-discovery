@@ -1,0 +1,4 @@
+interface:
+  display_name: "抖音中医视频选源"
+  short_description: "在抖音网页筛选中医视频，核验点赞、时长和分享链接，生成去重来源清单"
+  default_prompt: "使用 $douyin-tcm-video-discovery，在抖音网页筛选符合条件的中医视频，核对历史来源后交付已验证的分享链接清单。"

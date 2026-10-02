@@ -1,0 +1,11 @@
+{
+  "search_keyword": "中医",
+  "target_count": 30,
+  "min_likes": 10000,
+  "min_duration_seconds": 30,
+  "max_duration_seconds": 120,
+  "history_window_hours": 168,
+  "history_file": null,
+  "output_dir": "./video-discovery-output",
+  "timezone": "Asia/Shanghai"
+}
